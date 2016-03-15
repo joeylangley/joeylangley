@@ -1,0 +1,16 @@
+---
+title: The Rusty Keg
+subtitle: Website Design
+layout: default
+modal-id: 2
+date: 2016-03-15
+img: rustykeg-website.png
+thumbnail: rustykeg-website.png
+alt: Rusty Keg Website
+project-date: 2011
+client: The Rusty Keg
+client-url: http://rustykeg.com
+category: Web Development
+description: Website developed using Joomla! for a bar and restaurant.
+
+---

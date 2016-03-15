@@ -649,13 +649,13 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
-aside.clients img {
+aside.frameworks img {
     margin: 50px auto;
 }
 
 section#contact {
     background-color: #222;
-    background-image: url(img/map-image.png);
+    background-image: url(img/black-background-langley.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -761,6 +761,14 @@ ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
     background-color: #{{ site.color.primary }};
+}
+
+ul.skills { padding-left:20px; list-style:none; }
+ul.skills li { margin-bottom:10px; }
+ul.skills li:before {    
+    font-family: 'FontAwesome';
+    content: '\f138';
+    margin:0 5px 0 -15px;
 }
 
 .btn:focus,
