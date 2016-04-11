@@ -1,0 +1,16 @@
+---
+title: Diverse Build
+subtitle: Website Design
+layout: default
+modal-id: 5
+date: 2016-03-16
+img: diverse-mac.png
+thumbnail: diverse-mac-thumbnail.png
+alt: Lakewood Village Resort
+project-date: 2016
+client: Diverse Building
+client-url: http://www.diversebuild.com
+category: Website Design
+description: Site developed using Joomla! to display projects and offer quote form.
+
+---

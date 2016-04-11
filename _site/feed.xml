@@ -5,17 +5,43 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 22 Mar 2016 12:05:11 -0400</pubDate>
-    <lastBuildDate>Tue, 22 Mar 2016 12:05:11 -0400</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2016 12:03:23 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2016 12:03:23 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Bay Pharmaceuticals</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Mar 2016 00:00:00 -0400</pubDate>
+        <link>/website%20design/2016/03/17/project-6/</link>
+        <guid isPermaLink="true">/website%20design/2016/03/17/project-6/</guid>
+        
+        
+        <category>Website Design</category>
+        
+      </item>
+    
+      <item>
+        <title>Diverse Build</title>
+        <description>
+</description>
+        <pubDate>Wed, 16 Mar 2016 00:00:00 -0400</pubDate>
+        <link>/website%20design/2016/03/16/project-5/</link>
+        <guid isPermaLink="true">/website%20design/2016/03/16/project-5/</guid>
+        
+        
+        <category>Website Design</category>
+        
+      </item>
     
       <item>
         <title>The Rusty Keg</title>
         <description>
 </description>
         <pubDate>Tue, 15 Mar 2016 00:00:00 -0400</pubDate>
-        <link>/web%20development/2016/03/15/project-2/</link>
-        <guid isPermaLink="true">/web%20development/2016/03/15/project-2/</guid>
+        <link>/web%20development/2016/03/15/project-3/</link>
+        <guid isPermaLink="true">/web%20development/2016/03/15/project-3/</guid>
         
         
         <category>Web Development</category>
@@ -27,8 +53,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Mar 2016 00:00:00 -0400</pubDate>
-        <link>/logo%20design/2016/03/15/project-1/</link>
-        <guid isPermaLink="true">/logo%20design/2016/03/15/project-1/</guid>
+        <link>/logo%20design/2016/03/15/project-2/</link>
+        <guid isPermaLink="true">/logo%20design/2016/03/15/project-2/</guid>
         
         
         <category>Logo Design</category>
@@ -40,11 +66,24 @@
         <description>
 </description>
         <pubDate>Tue, 15 Mar 2016 00:00:00 -0400</pubDate>
-        <link>/graphic%20design/2016/03/15/project-3/</link>
-        <guid isPermaLink="true">/graphic%20design/2016/03/15/project-3/</guid>
+        <link>/graphic%20design/2016/03/15/project-1/</link>
+        <guid isPermaLink="true">/graphic%20design/2016/03/15/project-1/</guid>
         
         
         <category>Graphic Design</category>
+        
+      </item>
+    
+      <item>
+        <title>Jason Langley Realty</title>
+        <description>
+</description>
+        <pubDate>Sun, 15 Feb 2015 00:00:00 -0500</pubDate>
+        <link>/web%20development/2015/02/15/project-4/</link>
+        <guid isPermaLink="true">/web%20development/2015/02/15/project-4/</guid>
+        
+        
+        <category>Web Development</category>
         
       </item>
     

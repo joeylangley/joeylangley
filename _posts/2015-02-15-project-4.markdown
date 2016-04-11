@@ -1,0 +1,16 @@
+---
+title: Jason Langley Realty
+subtitle: Website Design
+layout: default
+modal-id: 4
+date: 2015-02-15
+img: langleysells-surface.png
+thumbnail: langleysells-thumbnail.png
+alt: Langleysells Website
+project-date: 2015
+client: Jason Langley Realty
+client-url: http://langleysells.com
+category: Web Development
+description: Website developed using Wordpress for real estate listings.
+
+---

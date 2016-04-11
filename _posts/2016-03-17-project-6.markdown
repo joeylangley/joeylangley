@@ -1,0 +1,16 @@
+---
+title: Bay Pharmaceuticals
+subtitle: Website Design
+layout: default
+modal-id: 6
+date: 2016-03-17
+img: bay-ipad.png
+thumbnail: bay-ipad-thumbnail.png
+alt: Bay Pharmaceuticals Website
+project-date: 2016
+client: Bay Pharmaceuticals
+client-url: http://www.baypharmaceuticalsrx.com
+category: Website Design
+description: Site developed using Joomla! for client login and view purchase history.
+
+---
