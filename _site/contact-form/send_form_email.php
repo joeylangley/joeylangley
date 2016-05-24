@@ -79,7 +79,7 @@ if(isset($_POST['email'])) {
 
   if(strlen($message) < 2) {
  
-    $error_message .= 'The message you entered does not appear to be valid.<br />';
+    $error_message .= 'The message you entered do not appear to be valid.<br />';
  
   }
  
@@ -105,7 +105,7 @@ if(isset($_POST['email'])) {
  
     $email_message .= "Name: ".clean_string($name)."\n";
  
-    $email_message .= "Email: ".clean_string($email)."\n";
+    $email_message .= "Email: ".clean_string($email_from)."\n";
  
     $email_message .= "Telephone: ".clean_string($telephone)."\n";
  
