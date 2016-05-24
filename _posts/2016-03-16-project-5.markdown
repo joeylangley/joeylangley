@@ -1,16 +1,16 @@
 ---
-title: Diverse Build
+title: Revertech Solutions
 subtitle: Website Design
 layout: default
 modal-id: 5
-date: 2016-03-16
-img: diverse-mac.png
-thumbnail: diverse-mac-thumbnail.png
-alt: Lakewood Village Resort
+date: 2016-05-21
+img: rts-mac.png
+thumbnail: rts-mac-thumbnail.png
+alt: Revertech Solutions
 project-date: 2016
-client: Diverse Building
-client-url: http://www.diversebuild.com
+client: Revertech Solutions
+client-url: http://www.revertech.com
 category: Website Design
-description: Site developed using Joomla! to display projects and offer quote form.
+description: Site developed using Wordpress and created a custom theme based on Twitter Bootstrap Framework.
 
 ---
