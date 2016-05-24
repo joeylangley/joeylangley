@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joey Langley</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <title>JL</title>
+    <description>Website Developer and Designer with over 15 years experience.  Custom Drupal, Wordpress, and Joomla CMS themes.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 24 May 2016 13:56:44 -0400</pubDate>
-    <lastBuildDate>Tue, 24 May 2016 13:56:44 -0400</lastBuildDate>
+    <pubDate>Tue, 24 May 2016 14:23:03 -0400</pubDate>
+    <lastBuildDate>Tue, 24 May 2016 14:23:03 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
