@@ -9,7 +9,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <form name="sentMessage" id="contactForm" novalidate>
+                    <form name="sentMessage" id="contactForm" action="//formspree.io/joemagnum1@hotmail.com" method="post">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="form-group">
@@ -34,7 +34,10 @@
                             <div class="clearfix"></div>
                             <div class="col-lg-12 text-center">
                                 <div id="success"></div>
-                                <button type="submit" value="Submit" class="btn btn-xl"><a href="http://joeylangley.com/contact-form/send_form_email.php">Send Message</a></button>
+                                <button type="submit" value="Submit" class="btn btn-xl">Send Message</button>
+                                <input type="hidden" name="_next" value="//joeylangley.com" />
+                                <input type="text" name="_gotcha" style="display:none" />
+                                <input type="hidden" name="_subject" value="Joey Langley Contact" />
                             </div>
                         </div>
                     </form>
