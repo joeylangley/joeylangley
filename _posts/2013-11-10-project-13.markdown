@@ -1,0 +1,16 @@
+---
+title: Velo Logo
+subtitle: Velo Logo Design
+layout: default
+modal-id: 13
+date: 2013-11-10
+img: velo-logo-design.jpg
+thumbnail: velo-logo-design-thumbnail.jpg
+alt: Velo Logo Design
+project-date: 2013
+client: Velo / RH Burton Company
+client-url: #
+category: Graphic Design
+description: Designed logo for high tech Ophthalmic equipment division of RH Burton Company.
+
+---

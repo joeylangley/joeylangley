@@ -1,0 +1,16 @@
+---
+title: HCL Email
+subtitle: Email Template
+layout: default
+modal-id: 14
+date: 2015-11-10
+img: hcl-email.jpg
+thumbnail: hcl-email-thumbnail.jpg
+alt: HCL Email Template
+project-date: 2015
+client: Health Care Logistics, Inc.
+client-url: #
+category: Email Template
+description: Email template created for use in Campaign Monitor.
+
+---

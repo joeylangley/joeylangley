@@ -1,0 +1,16 @@
+---
+title: The Ohio State University Land Auction
+subtitle: Graphic Design
+layout: default
+modal-id: 11
+date: 2013-03-29
+img: ohio-state-brochure.jpg
+thumbnail: ohio-state-brochure-thumbnail.jpg
+alt: The Ohio State University Land Auction
+project-date: 2013
+client: The Ohio State University/Wilson National
+client-url: #
+category: Graphic Design
+description: Created auction brochure for The Ohio State University Agriculture Land Auction. Contained detailed information along with images and large "multi-parcel" map.
+
+---

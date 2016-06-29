@@ -9,7 +9,6 @@ thumbnail: lakewood-invitation-design-thumbnail.png
 alt: Lakewood Village Resort
 project-date: 2013
 client: Lakewood Village Resort
-client-url: http://www.lakewoodvillageresort.com
 category: Graphic Design
 description: Direct mail piece with scratch off.
 

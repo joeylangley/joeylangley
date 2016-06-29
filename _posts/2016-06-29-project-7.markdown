@@ -1,0 +1,16 @@
+---
+title: Health Care Logistics, Inc.
+subtitle: Website Design
+layout: default
+modal-id: 7
+date: 2016-06-29
+img: gohcl-mac.jpg
+thumbnail: gohcl-mac-thumbnail.jpg
+alt: Health Care Logistics, Inc. Website
+project-date: 2015
+client: Health Care Logistics, Inc.
+client-url: http://www.gohcl.com
+category: Website Design
+description: Site developed using Joomla! using a custom created Bootstrap theme.  Also templated the ecommerce solution using Epicor P21/B2B.
+
+---

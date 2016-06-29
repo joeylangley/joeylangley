@@ -1,0 +1,16 @@
+---
+title: Wilson National Real Estate
+subtitle: Website Design
+layout: default
+modal-id: 12
+date: 2013-11-20
+img: wilson-responsive.jpg
+thumbnail: wilson-responsive-thumbnail.jpg
+alt: Wilson National Real Estate
+project-date: 2013
+client: The Ohio State University/Wilson National
+client-url: http://www.wilnat.com
+category: Website Design
+description: Developed website using Joomla! to display real estate listings, auciton listings, and auction results.
+
+---

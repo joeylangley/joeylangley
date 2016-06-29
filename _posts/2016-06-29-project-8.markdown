@@ -1,0 +1,16 @@
+---
+title: Bricolage
+subtitle: Website Design
+layout: default
+modal-id: 8
+date: 2016-06-29
+img: bricolage-tablet.jpg
+thumbnail: bricolage-tablet-thumbnail.jpg
+alt: Bricolage Website
+project-date: 2014
+client: Bricolage
+client-url: http://www.gobricolage.com
+category: Website Design
+description: Site developed using Drupal using a responsive customized theme. Also templated the ecommerce solution using Epicor P21/B2B.
+
+---

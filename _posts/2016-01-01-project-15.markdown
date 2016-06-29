@@ -1,0 +1,16 @@
+---
+title: Emed Email
+subtitle: Email Template
+layout: default
+modal-id: 15
+date: 2016-01-01
+img: email-iphone.jpg
+thumbnail: email-iphone-thumb.jpg
+alt: Emed Email Template
+project-date: 2016
+client: Emed Decor and More
+client-url: #
+category: Email Template
+description: Email template created for use in Campaign Monitor.
+
+---

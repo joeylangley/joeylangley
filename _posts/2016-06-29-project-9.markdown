@@ -1,0 +1,16 @@
+---
+title: Go Go Innovate
+subtitle: Website Design
+layout: default
+modal-id: 9
+date: 2016-06-29
+img: innovate-tablet.jpg
+thumbnail: innovate-tablet-thumbnail.jpg
+alt: Bricolage Website
+project-date: 2016
+client: gogoinnovate
+client-url: http://www.gogoinnovate.com
+category: Website Design
+description: Site developed using Jekyll.
+
+---

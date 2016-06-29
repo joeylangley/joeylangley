@@ -5,9 +5,48 @@
     <description>Website Developer and Designer with over 15 years experience.  Custom Drupal, Wordpress, and Joomla CMS themes.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 25 May 2016 08:23:49 -0400</pubDate>
-    <lastBuildDate>Wed, 25 May 2016 08:23:49 -0400</lastBuildDate>
+    <pubDate>Wed, 29 Jun 2016 14:38:26 -0400</pubDate>
+    <lastBuildDate>Wed, 29 Jun 2016 14:38:26 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Go Go Innovate</title>
+        <description>
+</description>
+        <pubDate>Wed, 29 Jun 2016 00:00:00 -0400</pubDate>
+        <link>/website%20design/2016/06/29/project-9/</link>
+        <guid isPermaLink="true">/website%20design/2016/06/29/project-9/</guid>
+        
+        
+        <category>Website Design</category>
+        
+      </item>
+    
+      <item>
+        <title>Bricolage</title>
+        <description>
+</description>
+        <pubDate>Wed, 29 Jun 2016 00:00:00 -0400</pubDate>
+        <link>/website%20design/2016/06/29/project-8/</link>
+        <guid isPermaLink="true">/website%20design/2016/06/29/project-8/</guid>
+        
+        
+        <category>Website Design</category>
+        
+      </item>
+    
+      <item>
+        <title>Health Care Logistics, Inc.</title>
+        <description>
+</description>
+        <pubDate>Wed, 29 Jun 2016 00:00:00 -0400</pubDate>
+        <link>/website%20design/2016/06/29/project-7/</link>
+        <guid isPermaLink="true">/website%20design/2016/06/29/project-7/</guid>
+        
+        
+        <category>Website Design</category>
+        
+      </item>
     
       <item>
         <title>Revertech Solutions</title>
@@ -75,15 +114,28 @@
       </item>
     
       <item>
-        <title>Jason Langley Realty</title>
+        <title>Emed Email</title>
         <description>
 </description>
-        <pubDate>Sun, 15 Feb 2015 00:00:00 -0500</pubDate>
-        <link>/web%20development/2015/02/15/project-4/</link>
-        <guid isPermaLink="true">/web%20development/2015/02/15/project-4/</guid>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+        <link>/email%20template/2016/01/01/project-15/</link>
+        <guid isPermaLink="true">/email%20template/2016/01/01/project-15/</guid>
         
         
-        <category>Web Development</category>
+        <category>Email Template</category>
+        
+      </item>
+    
+      <item>
+        <title>HCL Email</title>
+        <description>
+</description>
+        <pubDate>Tue, 10 Nov 2015 00:00:00 -0500</pubDate>
+        <link>/email%20template/2015/11/10/project-14/</link>
+        <guid isPermaLink="true">/email%20template/2015/11/10/project-14/</guid>
+        
+        
+        <category>Email Template</category>
         
       </item>
     

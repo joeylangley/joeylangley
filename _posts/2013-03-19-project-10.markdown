@@ -1,0 +1,16 @@
+---
+title: The Rusty Keg
+subtitle: Graphic Design
+layout: default
+modal-id: 10
+date: 2013-03-19
+img: rustykeg-tshirt.jpg
+thumbnail: rustykeg-tshirt-thumbnail.jpg
+alt: Rusty Keg T-Shirt
+project-date: 2013
+client: The Rusty Keg
+client-url: #
+category: Graphic Design
+description: T-Shirt and Clothing created for Bar/Restuarant using Illustrator and Photoshop.
+
+---
