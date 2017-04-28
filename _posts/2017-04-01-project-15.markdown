@@ -1,0 +1,16 @@
+---
+title: Meet The Team App
+subtitle: Web App
+layout: default
+modal-id: 15
+date: 2017-04-01
+img: meet-the-team.png
+thumbnail: meet-the-team-thumbnail.png
+alt: Meet The Team App
+project-date: 2017
+client: HCL
+client-url: http://gohcl.com/meet-the-team-app/index.html#/hcl-sales
+category: Website Design
+description: Marketing wanted to highlight and introduce the company sales team to perspective and current customers from all over the country.  The user needed to easily search for their area and industry type as well as keywords to find the sales person they're looking for.  I developed the App using Angular.js and Joomla!.
+
+---

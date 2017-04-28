@@ -1,5 +1,5 @@
 ---
-title: The Ohio State University Land Auction
+title: OSU Land Auction
 subtitle: Graphic Design
 layout: default
 modal-id: 11

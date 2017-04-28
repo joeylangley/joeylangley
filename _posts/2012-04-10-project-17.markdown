@@ -1,0 +1,16 @@
+---
+title: Data Center Signage
+subtitle: Graphic Design
+layout: default
+modal-id: 17
+date: 2012-03-16
+img: datacenter-signage.png
+thumbnail: datacenter-signage.png
+alt: Graphic Design
+project-date: 2017
+client: HCL
+client-url: https://www.gohcl.com/
+category: Graphic Design
+description: Signage for datacenter designed with photoshop.
+
+---

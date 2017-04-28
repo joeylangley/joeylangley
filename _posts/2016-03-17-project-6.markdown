@@ -11,6 +11,6 @@ project-date: 2016
 client: Bay Pharmaceuticals
 client-url: http://www.baypharmaceuticalsrx.com
 category: Website Design
-description: Site developed using Joomla! for client login and view purchase history.
+description: Requirements for this site were that it needed to have a CMS so the client could log in and update customer data, customers need to log in and view their selected drug compliance data as well as purchase history.  This site developed using Joomla!
 
 ---

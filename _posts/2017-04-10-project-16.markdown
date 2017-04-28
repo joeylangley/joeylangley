@@ -1,0 +1,16 @@
+---
+title: Stat-Stock Web App
+subtitle: Web App
+layout: default
+modal-id: 16
+date: 2017-04-10
+img: stat-stock.png
+thumbnail: stat-stock-thumbnail.png
+alt: Stat-Stock App
+project-date: 2017
+client: HCL
+client-url: https://stat-stock.com/
+category: Website Design
+description: Stat Stock is a web app created to help medical professionals secure and manage their drug supply inventory using RFID tagged items located in a secure "box".  The welcome page needed to funciton as both a point of sales and a source information for new customers as well as a log in screen for current customers.
+
+---

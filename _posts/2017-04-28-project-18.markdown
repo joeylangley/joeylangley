@@ -1,0 +1,16 @@
+---
+title: Emed Decor and More
+subtitle: Website Design
+layout: default
+modal-id: 18
+date: 2017-03-20
+img: emed-site.png
+thumbnail: emed-site-thumbnail.png
+alt: Emed Decor and More
+project-date: 2017
+client: Emed
+client-url: https://www.emeddecorandmore.com/
+category: Website Design
+description: Ecommerce solution.
+
+---
