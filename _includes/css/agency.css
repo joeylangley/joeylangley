@@ -14,6 +14,14 @@ body {
     color: #777;
 }
 
+h3.text-muted {
+    color: #e4e4e4;
+}
+
+p.large.text-muted {
+    color: #e4e4e4;
+}
+
 .text-primary {
     color: #{{ site.color.primary }};
 }
