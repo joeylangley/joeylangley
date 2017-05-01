@@ -11,6 +11,6 @@ project-date: 2017
 client: Emed
 client-url: https://www.emeddecorandmore.com/
 category: Website Design
-description: Ecommerce solution.
+description: This was an ecommerce site with requirements being it to be responsive, and it must use the company's existing ERP software to manage the storefront.  I worked with the key stakeholder, 3 developers, and a team of item fulfillment staff to provide a custom solution and successfully moved the data from the existing Drupal/Ubercart site to a site which uses Joomla! and PHP to manage content and communicate with the company's ERP software.
 
 ---
