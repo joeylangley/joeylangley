@@ -1,6 +1,6 @@
 ---
 title: Stat-Stock Web App
-subtitle: Web App
+subtitle: Landing Page Design/Dev
 layout: default
 modal-id: 16
 date: 2017-04-10
